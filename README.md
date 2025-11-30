@@ -53,7 +53,7 @@ Supabase keys + storage are already wired into the project.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MurtazaSukhsar/secure-file-sharing.git
+git clone https://github.com/MurtazaSukhsar/FUTURE_CS_03
 cd secure-file-sharing
 ```
 
